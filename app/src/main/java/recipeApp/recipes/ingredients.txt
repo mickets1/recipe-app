@@ -1,0 +1,1 @@
+Milk:litre:12;Egg:Piece:4;Vanilla:gram:5;Baking Powder:gram:5;Flour:litre:10;basmati rice:litre:19;sesame oil:litre:20;white onion:piece:5;carrot:pieces:5;peas:litre:17;
